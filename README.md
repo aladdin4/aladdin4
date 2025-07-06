@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ahmed Aladdin
-- 🌱 I'm a fullstack Angular/C# developer. With 3 years of experience.
+- 🌱 Hi, I'm a fullstack Angular/C# developer. With 3 years of experience.
 - 💞️ Currently I'm studying my MSc Degree in IT at Alexandria University.
 
 
